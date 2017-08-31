@@ -1,0 +1,5 @@
+*.gz
+*.mat
+*-ubyte
+.idea
+__pycache__
